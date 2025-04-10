@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Juan Diego Sánchez</h1>
 <h3 align="center">Estudiante de Desarrollo Multiplataforma</h3>
 
-- 📝 Estudios: [Desarrollo de Aplicaciones Multiplataforma (2024-2025))](Desarrollo de Aplicaciones Multiplataforma (2024-2025)))
+<h2>📝 Estudios: Desarrollo de Aplicaciones Multiplataforma (2024-2025)</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
