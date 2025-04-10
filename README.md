@@ -4,7 +4,7 @@
 <h2>📝 Estudios</h2>
 <p> Desarrollo de Aplicaciones Multiplataforma (2024-2025)</p>
 
-<h3 align="left">Contacta conmigo:</h3>
+<h2>Contacta conmigo:</h2>
 <p>📧 juandsanchez2004@outlook.es</p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
