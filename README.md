@@ -1,7 +1,6 @@
 <h1>Hola 👋, soy Juan Diego Sánchez</h1>
 <h3>Estudiante de Desarrollo Multiplataforma</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiegos004&label=Profile%20views&color=0e75b6&style=flat" alt="jdiegos004" /> </p>
 <h2>📝 Estudios</h2>
 <p> Desarrollo de Aplicaciones Multiplataforma (2024-2025)</p>
 
@@ -25,3 +24,6 @@
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<h2>📊Otros datos</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiegos004&label=Profile%20views&color=0e75b6&style=flat" alt="jdiegos004" /> </p>
