@@ -28,4 +28,4 @@
 <h2>📊Otros datos</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiegos004&label=Profile%20views&color=0e75b6&style=flat" alt="jdiegos004" /> </p>
 
-<img src="https://www.bing.com/images/search?q=gif%20rata%20bailando&view=detailv2&FORM=IQFRBA&id=B7A09C703C20A5B3A9713644BF00009EAAC8DEEE&selectedindex=2&&expw=165&exph=217&ccid=%2b%2fvQDfHw&ck=780930322D307F19F474C4A20D819829&simid=607986599308887870&thid=OIP.-_vQDfHwAsTIL5RT0DOuuwAAAA&idpp=serp&idpbck=1" alt="Descripción del GIF" width="500">
+<img src="https://media.tenor.com/GgLwolFoG0sAAAAM/rat-dance.gif" alt="Alejandro bailando" width="500">
