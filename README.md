@@ -27,3 +27,4 @@
 
 <h2>📊Otros datos</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiegos004&label=Profile%20views&color=0e75b6&style=flat" alt="jdiegos004" /> </p>
+<img src="https://media.tenor.com/GgLwolFoG0sAAAAM/rat-dance.gif" alt="Rata bailando porque aprobo Base de datos" width="200">
