@@ -1,7 +1,7 @@
 <h1>Hola 👋, soy Juan Diego Sánchez</h1>
 <h3>Estudiante de Desarrollo Multiplataforma</h3>
 
-<h2>📝 Estudios:</h2>
+<h2>📝 Estudios</h2>
 <p> Desarrollo de Aplicaciones Multiplataforma (2024-2025)</p>
 
 <h3 align="left">Contacta conmigo:</h3>
