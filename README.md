@@ -1,11 +1,11 @@
 <h1>Hola 👋, soy Juan Diego Sánchez</h1>
 <h3>Estudiante de Desarrollo Multiplataforma</h3>
 
-<h2>📝 Estudios: Desarrollo de Aplicaciones Multiplataforma (2024-2025)</h2>
+<h2>📝 Estudios:</h2>
+<p> Desarrollo de Aplicaciones Multiplataforma (2024-2025)</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">Contacta conmigo:</h3>
+<p>📧 juandsanchez2004@outlook.es</p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
